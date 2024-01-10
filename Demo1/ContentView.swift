@@ -16,7 +16,7 @@ struct ContentView: View {
             Text("Hello, world!")
         }
         .padding()
-        
+        //one 676767
     }
 }
 
